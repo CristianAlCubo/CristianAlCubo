@@ -29,15 +29,10 @@
 </div>
 
 <div align="center">
-
-
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwbngwbmlsN2gzYnFsamhxbzViemdjMm83dmdwNjBiOWVoM2F3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=cristianalcubo&locale=es&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianalcubo&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+  <img align="center" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIwbngwbmlsN2gzYnFsamhxbzViemdjMm83dmdwNjBiOWVoM2F3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+</div>
